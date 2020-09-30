@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is bharat Makwana i am mobile application developer i use flutter and android for development, say hi on
+- **LinkedIn**    [www.linkedin.com/in/bharatk256/](https://www.linkedin.com/in/bharatmk256/)
+- **Instagram**   [www.instagram.com/bharatk256/](https://www.instagram.com/bharatmk256/)
+  
+- **Twitter**     [twitter.com/bharatk256](https://twitter.com/bharatmk256)
+- **Discord**     **bharatmk256**
+  
+![](https://komarev.com/ghpvc/?username=bharatmk256)
