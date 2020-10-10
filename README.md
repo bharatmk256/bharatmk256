@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Native and Cross-platform Development? (Easy Explain)](https://blog.usejournal.com/what-is-native-and-cross-platform-development-easy-explain-c3ead263642e?source=rss-2e044ba89158------2)
+- [Creating New/Old Flutter project with web support](https://dev.to/bharatmk256/creating-new-old-flutter-project-with-web-support-3go6)
+- [Creating New/Old Flutter project with web support](https://medium.com/@bharatmk256/creating-new-old-flutter-project-with-web-support-91a657c9801c?source=rss-2e044ba89158------2)
+- [Looking for windows alternative here’s how to install Linux](https://blog.usejournal.com/looking-for-windows-alternative-heres-how-to-install-linux-b75454fcb21d?source=rss-2e044ba89158------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
