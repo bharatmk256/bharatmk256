@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Be the message!](https://medium.com/mindset256/be-the-message-a68392326489?source=rss-2e044ba89158------2)
 - [How pain is good thing?](https://medium.com/mindset256/how-pain-is-good-thing-d8751a4c419d?source=rss-2e044ba89158------2)
 - [How to Deal with Uncertainty](https://medium.com/mindset256/how-to-deal-with-uncertainty-fb87d28f59ee?source=rss-2e044ba89158------2)
 - [What is Native and Cross-platform Development? (Easy Explain)](https://blog.usejournal.com/what-is-native-and-cross-platform-development-easy-explain-c3ead263642e?source=rss-2e044ba89158------2)
-- [Creating New/Old Flutter project with web support](https://dev.to/bharatmk256/creating-new-old-flutter-project-with-web-support-3go6)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
