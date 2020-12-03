@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to bring more happiness in life!](https://medium.com/mindset256/how-to-bring-more-happiness-in-life-22de3b19addd?source=rss-2e044ba89158------2)
 - [The Story of Struggles](https://medium.com/mindset256/the-story-of-struggles-713df1b93c28?source=rss-2e044ba89158------2)
 - [Be the message!](https://medium.com/mindset256/be-the-message-a68392326489?source=rss-2e044ba89158------2)
 - [How pain is good thing?](https://medium.com/mindset256/how-pain-is-good-thing-d8751a4c419d?source=rss-2e044ba89158------2)
-- [How to Deal with Uncertainty](https://medium.com/mindset256/how-to-deal-with-uncertainty-fb87d28f59ee?source=rss-2e044ba89158------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
