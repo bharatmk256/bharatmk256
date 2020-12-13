@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Direction of life](https://medium.com/mindset256/direction-of-life-d57c1effc585?source=rss-2e044ba89158------2)
 - [Why You Should Set Goals?](https://medium.com/mindset256/why-you-should-set-goals-dcb823d81633?source=rss-2e044ba89158------2)
 - [Fail More to Succeed.](https://medium.com/mindset256/fail-more-to-succeed-b6c47c4ae285?source=rss-2e044ba89158------2)
 - [How to bring more happiness in life!](https://medium.com/mindset256/how-to-bring-more-happiness-in-life-22de3b19addd?source=rss-2e044ba89158------2)
-- [The Story of Struggles](https://medium.com/mindset256/the-story-of-struggles-713df1b93c28?source=rss-2e044ba89158------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
