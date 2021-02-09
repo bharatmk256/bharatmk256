@@ -23,7 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating New/Old Flutter project with web support](https://dev.to/bharatmk256/creating-new-old-flutter-project-with-web-support-3go6)
+- [One thing to develop in 2021](https://medium.com/mindset256/one-thing-to-develop-in-2021-8f3d497dd197?source=rss-2e044ba89158------2)
+- [How to stop living your life with regrets?](https://medium.com/mindset256/how-to-stop-living-your-life-with-regrets-da1f3beaa9a4?source=rss-2e044ba89158------2)
+- [Direction of life](https://medium.com/mindset256/direction-of-life-d57c1effc585?source=rss-2e044ba89158------2)
+- [Why You Should Set Goals?](https://medium.com/mindset256/why-you-should-set-goals-dcb823d81633?source=rss-2e044ba89158------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
