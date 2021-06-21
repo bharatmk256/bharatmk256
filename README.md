@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to stop hating Mondays](https://medium.com/mindset256/how-to-stop-hating-mondays-e423732ea2ac?source=rss-2e044ba89158------2)
 - [VIM cheatsheet](https://dev.to/bharatmk256/vim-cheatsheet-4jb8)
 - [One thing to develop in 2021](https://medium.com/mindset256/one-thing-to-develop-in-2021-8f3d497dd197?source=rss-2e044ba89158------2)
 - [How to stop living your life with regrets?](https://medium.com/mindset256/how-to-stop-living-your-life-with-regrets-da1f3beaa9a4?source=rss-2e044ba89158------2)
-- [Direction of life](https://medium.com/mindset256/direction-of-life-d57c1effc585?source=rss-2e044ba89158------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
