@@ -24,9 +24,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Using VIM as your Flutter IDE](https://dev.to/bharatmk256/using-vim-as-your-flutter-ide-28dl)
-- [How to stop hating Mondays](https://medium.com/mindset256/how-to-stop-hating-mondays-e423732ea2ac?source=rss-2e044ba89158------2)
 - [VIM cheatsheet](https://dev.to/bharatmk256/vim-cheatsheet-4jb8)
-- [One thing to develop in 2021](https://medium.com/mindset256/one-thing-to-develop-in-2021-8f3d497dd197?source=rss-2e044ba89158------2)
+- [Creating New/Old Flutter project with web support](https://dev.to/bharatmk256/creating-new-old-flutter-project-with-web-support-3go6)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
